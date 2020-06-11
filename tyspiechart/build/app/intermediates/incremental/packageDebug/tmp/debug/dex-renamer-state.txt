@@ -1,0 +1,4 @@
+#Thu May 14 14:05:08 CST 2020
+base.0=C\:\\Users\\taoyuesong\\Desktop\\prj\\test_prj_flutter\\tyspiechart\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
